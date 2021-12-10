@@ -1,14 +1,14 @@
-package CONSOLE.files.fileInfo;
+package files.fileInfo;
 
 import java.io.File;
 import java.util.Scanner;
 
 public class fileInfo {
    public static void main(String[] args) {
-       Scanner inpt =new Scanner(System.in);
+       Scanner input =new Scanner(System.in);
        System.out.println("Enter File:");
-       analyzeFile(inpt.nextLine());
-       inpt.close();
+       analyzeFile(input.nextLine());
+       input.close();
    }
 
     static void analyzeFile(String path){

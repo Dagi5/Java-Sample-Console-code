@@ -1,4 +1,4 @@
-package CONSOLE.fileBinary.objectFileTest1;
+package fileBinary.objectFileTest1;
 
 import java.io.BufferedOutputStream;
 import java.io.FileOutputStream;
@@ -14,7 +14,7 @@ public class fileWriter  {
     output.writeDouble(0.07);
     output.writeObject(new Date());
 
-    System.out.println("data has been dumped to file seccesfully.");
+    System.out.println("data has been dumped to file successfully.");
 } catch (IOException e) {
     System.out.println("Error while writing on the file!!");
 }

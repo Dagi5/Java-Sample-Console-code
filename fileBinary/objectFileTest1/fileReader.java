@@ -1,4 +1,4 @@
-package CONSOLE.fileBinary.objectFileTest1;
+package fileBinary.objectFileTest1;
 
 import java.io.BufferedInputStream;
 import java.io.EOFException;

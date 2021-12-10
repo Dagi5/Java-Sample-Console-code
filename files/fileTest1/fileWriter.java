@@ -1,4 +1,4 @@
-package CONSOLE.files.fileTest1;
+package files.fileTest1;
 
 import java.io.File;
 import java.io.PrintWriter;

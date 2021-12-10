@@ -1,9 +1,9 @@
-package CONSOLE.multiThreading.testing1;
+package multiThreading.testing1;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class taskExcutor {
+public class taskExecutor {
 
     public static void main(String[] args) {
         

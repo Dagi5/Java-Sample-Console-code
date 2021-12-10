@@ -1,8 +1,8 @@
-//PRACTISING ARRAYLISTS
-package CONSOLE;
+//PRACTISING ARRAY LISTS
+
 import java.util.ArrayList;
-public class ArrayListPracts {
-    public static void main(String srgd[]){
+public class ArrayListPractice {
+    public static void main(String args[]){
         ArrayList<String> colors = new ArrayList<String>();
         colors.add("green");
         colors.add("blue");

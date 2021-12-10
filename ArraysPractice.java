@@ -1,7 +1,6 @@
 //PRACTISING ARRAYS
-package CONSOLE;
 import java.util.Arrays;
-public class ArraysPracts {
+public class ArraysPractice {
 
     public static void main(String args[]){
         int ary[] = new int[6];

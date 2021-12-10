@@ -1,4 +1,4 @@
-    package CONSOLE.multiThreading.testing1;
+    package multiThreading.testing1;
 
     import java.util.Random;
 
@@ -17,12 +17,12 @@
         public void run() {
             
             try {
-                System.out.println(taskName + " statrted excuting");
+                System.out.println(taskName + " started executing");
                 System.out.println(taskName + "sleeping for " + sleepTime);
                 Thread.sleep(sleepTime);
 
             } catch (InterruptedException e) {
-        System.out.println(taskName + "stoped for some reason");
+        System.out.println(taskName + "stopped for some reason");
             }
             
             System.out.println(taskName + "done sleeping");

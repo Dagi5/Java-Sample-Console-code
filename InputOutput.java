@@ -1,6 +1,6 @@
 //a program that accepts input from the user and displays it
-//this code asks for name specificaly
-package CONSOLE;
+//this code asks for name specifically
+
 import java.util.Scanner;
 
 

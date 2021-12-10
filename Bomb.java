@@ -1,5 +1,4 @@
-//A PROGGRAM THAT SETS A BOMB, DOES A COUNTDOWN AND THEN BLOWS.
-package CONSOLE;
+//A PROGRAM THAT SETS A BOMB, DOES A COUNTDOWN AND THEN BLOWS.
 import java.util.Scanner;
 public class Bomb {
 
@@ -11,7 +10,7 @@ set the bomb to blow at the specified time
 */
 public static void setBomb(int deadLine){
     if(deadLine == 0){
-        System.out.print("\n BOOOOOOOM!!!!\n");
+        System.out.print("\n BOOM!!!!\n");
         return;
     }
     else{

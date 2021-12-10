@@ -1,5 +1,5 @@
 //A PROGRAM FOR TESTING SIMPLE CODES
-package CONSOLE;
+
 public class Math{
 
     public static void main(String args[]) {

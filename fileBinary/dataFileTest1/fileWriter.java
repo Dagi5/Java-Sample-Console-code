@@ -1,4 +1,4 @@
-package CONSOLE.fileBinary.dataFileTest1;
+package fileBinary.dataFileTest1;
 
 import java.io.DataOutputStream;
 import java.io.FileOutputStream;

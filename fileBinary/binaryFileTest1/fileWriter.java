@@ -1,4 +1,4 @@
-package CONSOLE.fileBinary.binaryFileTest1;
+package fileBinary.binaryFileTest1;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

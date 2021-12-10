@@ -1,5 +1,4 @@
 //A PROGRAM THAT ADDS TWO NUMBERS AND DISPLAYS IT
-package CONSOLE;
 
 import java.util.Scanner;
 

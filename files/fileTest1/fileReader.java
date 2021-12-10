@@ -1,17 +1,17 @@
-package CONSOLE.files.fileTest1;
+package files.fileTest1;
 
 import java.io.File;
 import java.util.Scanner;
 
 public class fileReader {
     public static void main(String[] args) throws Exception {
-        //open the file ;ocated in the gui/fileWriter folder with the name "names3" and type txt
+        //open the file ;coated in the gui/fileWriter folder with the name "names3" and type txt
         File myFile = new File("GUI/files/fileTest1/Names.txt");
 
-        //open the scanner class to oprate on the file
+        //open the scanner class to operate on the file
         Scanner input = new Scanner(myFile);
 
-        //decler the variables
+        //declare the variables
         String firstName;
         String lastName;
         int age;

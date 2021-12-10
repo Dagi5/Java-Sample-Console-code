@@ -1,4 +1,4 @@
-package CONSOLE;
+
 
 public class genericTest {
     public static void main(String[] args) {
